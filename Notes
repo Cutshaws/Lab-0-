@@ -1,0 +1,48 @@
+Cutshaw Week 1 Day 1 Notes:
+
+• Welcome
+Matt introduction says, “he’s not a tyrant.”
+
+• Syllabus Review
+Rubric and course review 
+goes over all the policies, refer to syllabus for further information.
+
+lecture notes:
+Full stack programming – a web developer, developing a web product 
+client and server application, etc. refer to lecture or presentation for additional information.
+
+• Understanding GitHub and Github Classroom
+A version control system – a way to manage files and directories
+Track changes over time, recall previous versions and source control (allows the user to go back) 
+EX Version control is like how they update games over time to improve them.
+
+What is Git?
+A command line version control program 
+This is a distributed version control system, in other words it can be spread across multiple computers
+Therefore, there isn’t a single point of failure
+All it is, a command line interface that allows us to push and pull code.
+Repository, ---- used to organized a single project
+Repos can contain folders files images and everything relating to the code. Even words docs and every type of files, it takes almost every programming language.
+Think of creating a repo as a LINE, when creating a branch or file 
+
+How master copies and repos work
+EX you have a master copy, the branching is when you make a copy of a master and make changes to the master with the ability to change it while still having the original master copy. Once you have made all the changes you want, you can commit it to the master copy and change the master copy to the updated copy.
+
+Main Branch info 
+The main branch is the starting branch
+Anything in the main branch is always deployable
+It is important to note that the new branch is created off the main when working on features.
+THE MAIN SHOULD WORK EVERYTIME
+
+Commits
+Once the new branch is changed, then you commit to the main branch, when you commit it prompts you for a commit message (this is where you add what you changed or updated)
+
+Pull Request
+This is after the review and commits
+A pull request is a request for whomever is in control of the main and telling them to PULL THE CODE ON THE MAIN. Once your pull request has been approved, it then goes on to merge with the main.
+GITGUB 
+Just an online way to store your code. 
+You pull code form the master branch and create an additional branch to work/add changes to the code
+Once the code is added or corrected a pull request can be made and merged.
+A merge conflict is when you have multiple changes on the same piece of code.
+To solve this conflict is as easy as picking which code you want for the master/main.
